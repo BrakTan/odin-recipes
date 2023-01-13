@@ -1,0 +1,38 @@
+*{
+    background-color: lightblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    text-align: center;
+    color: lightcoral;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+ul li{
+    list-style: circle;
+    font-size: 1.2rem;
+}
+
+img{
+    height: auto;
+    width: 500px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:visited{
+    color: black;
+}
+
+a:hover{
+    color: lightcoral;
+    text-decoration: red underline;
+}
+
